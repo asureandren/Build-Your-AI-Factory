@@ -3,7 +3,7 @@
 **Date:** 2026-07-16
 **Author:** Anush Sureandren - Software Testing Engineer
 **Project:** Ecommerce Project
-**Committed location:** https://github.com/asureandren/Build-Your-AI-Factory/blob/master/prompt-template-pr-summary.md
+**Committed location:** https://github.com/asureandren/Build-Your-AI-Factory
 
 ---
 

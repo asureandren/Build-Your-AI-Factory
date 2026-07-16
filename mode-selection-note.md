@@ -4,7 +4,7 @@
 **Author:** [Anush Sureandren — Software Testing Engineer]
 **Project:** [Ecommerce Project]
 **Task:** [Generating Acceptance criteria for the given Userstory]
-**Committed location:** [Repo path or shared folder URL]
+**Committed location:** (https://github.com/asureandren/Build-Your-AI-Factory)
 
 ---
 

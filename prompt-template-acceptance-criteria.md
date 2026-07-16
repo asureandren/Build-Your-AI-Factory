@@ -5,7 +5,7 @@
 **Project:** Ecommerce Project
 **Model:** Claude 3.5 Sonnet via EPAM DIAL
 **DIAL location:** https://chat.lab.epam.com/share/kv87nyN7j2qGphz4M1wtQWWKxJpk7p3jwcBYRqkqbUZ8Q5b3rwaCa2DBQ5qHAsZwgampxGSixD2WYAtXXThzk9Tj26xmz46yKH9tJSwdWe1WGCQmBhtejPsxDRa1RhXXXHQChA88a6yjZm6CArru6epq
-**Committed location:** https://github.com/asureandren/Build-Your-AI-Factory/blob/master/prompt-template-pr-summary.md
+**Committed location:** https://github.com/asureandren/Build-Your-AI-Factory
 
 ---
 
